@@ -1,6 +1,6 @@
 # CT - Oficina de Projetos 7
 
-Repositório Criado Para Homologação do Software Moodle Executando em Containers
+Repositório Criado Para Homologação do Software MediaWiki Executando em Containers
 
 #
 
