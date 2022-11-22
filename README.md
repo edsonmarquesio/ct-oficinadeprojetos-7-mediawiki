@@ -26,7 +26,7 @@ Repositório Criado Para Homologação do Software MediaWiki Executando em Conta
     docker swarm init
 
 #
-### 3-Deploy das Aplicações MARIADB e GLPI
+### 3-Deploy das Aplicações MARIADB e MEDIAWIKI
 
     docker stack deploy -c docker-compose.yml moodle
 
