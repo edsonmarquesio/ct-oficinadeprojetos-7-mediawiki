@@ -28,7 +28,7 @@ Repositório Criado Para Homologação do Software MediaWiki Executando em Conta
 #
 ### 3-Deploy das Aplicações MARIADB e MEDIAWIKI
 
-    docker stack deploy -c docker-compose.yml moodle
+    docker stack deploy -c docker-compose.yml mediawiki
 
 #
 ### 4-Deploy do Portainer
