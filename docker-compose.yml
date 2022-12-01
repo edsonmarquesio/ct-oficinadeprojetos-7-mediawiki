@@ -21,6 +21,8 @@ services:
   database:
     image: mariadb
     restart: always
+    ports:
+      - 3306:3306
     environment:
       # @see https://phabricator.wikimedia.org/source/mediawiki/browse/master/includes/DefaultSettings.php
       MYSQL_DATABASE: my_wiki
