@@ -20,7 +20,7 @@ Repositório Criado Para Homologação do Software MediaWiki Executando em Conta
 #### Mac
     https://docs.docker.com/desktop/install/mac-install/   
 
-#    
+#
 ### 2-Instalação do Docker Swarm
 
     docker swarm init
